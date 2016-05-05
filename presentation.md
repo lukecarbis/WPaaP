@@ -395,9 +395,9 @@ name: notes
 class: center, middle, inverse
 
 ### You can view this presentation at
-### https://lukecarbis.github.io/WPaaP
+### https://lukecarbis.github.io/wpaap
 
 or
 
 ### download and contribute at
-### https://github.com/lukecarbis/WPaaP
+### https://github.com/lukecarbis/wpaap
