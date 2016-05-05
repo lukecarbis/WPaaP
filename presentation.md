@@ -18,8 +18,8 @@ class: center, middle, inverse
 name: introduction
 class: center, middle, inverse
 
-![Stream](assets/img/Stream.svg)
-![XWP](assets/img/XWP.svg)
+![Stream](assets/img/stream.svg)
+![XWP](assets/img/xwp.svg)
 
 ???
 
