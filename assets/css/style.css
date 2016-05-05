@@ -72,6 +72,9 @@ blockquote {
 .pull-right ~ p {
 	clear: both;
 }
+.jumboji {
+	font-size: 8em;
+}
 .remark-slide .remark-slide-content {
 	background-size: cover !important;
 	background-position: center center !important;

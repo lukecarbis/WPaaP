@@ -31,15 +31,14 @@ class: center, middle, inverse
 
 * Here to talk about
 	* Take your product idea from conception to reality
-	* How WordPress can help
 
 ---
 
-name: what-is-WPaaS
+name: what-is-WPaaP
 class: center, middle
 
 # What is
-# WordPress as a Service?
+# WordPress as a Product?
 
 ???
 
@@ -72,7 +71,7 @@ class: center, middle, inverse
 	* CMS
 	* Apps
 
-* Lots of built-in foundational groundwork for SaaS
+* Lots of built-in foundational groundwork for products
 	* User Management
 	* Custom Post Types / Taxonomies
 
@@ -81,13 +80,20 @@ class: center, middle, inverse
 	* WooCommerce / EDD
 	* Restrict Content Pro
 	
+* Makes sites more replicable and automated
+	* Agencies can productise their services
+	* Use of WP CLI to automate WordPress installs / setups
+
 But this presentation isn't about the technical details.
 
-There are already presentations on WordPress.tv about _why_ WP is a good SaaS Platform.
+There are already presentations on WordPress.tv about _why_ WP is a good platform for your product.
 
-Let's talk instead about how to make your WPaaS product successful.
+Since WordPress makes such a good platform for products, there are lots of opportunities for products in your business.
+
+I'd like to talk about how to make your WPaaP successful.
 
 [Bryce Adams on WordPress.tv](https://wordpress.tv/2015/07/09/bryce-adams-how-i-built-a-wordpress-powered-saas-in-3-days/)
+
 [Lew Ayotte on WordPress.tv](https://wordpress.tv/2016/03/28/lew-ayotte-saas-and-wordpress/)
 
 ---
@@ -100,34 +106,79 @@ class: center, middle
 
 ???
 
+Experimentation in Product Development is a half-science, there's still a lot of ideation generation.
+
 > Hypothesis Driven Development
 
-* What does this mean?
-* It's the right way to develop a product idea
+It's the best approach for developing product ideas. Here's how it works…
 
-Here's how it works:
+---
 
-1. You have an idea
-2. You come up with a hypothesis
-	* A hypothesis doesn't start with "I believe..." (otherwise it's true by default)
-	* More clear: "If this, then that"
-	* A good start: "If I show people a screenshot, they will download"
-	* Be even clearer
-	* "If I show people who work for a WordPress Agency a screenshot demonstrating how my product will save them time, they will download it"
-3. You test the hypothesis
-4. You apply the results to your product
+name: idea
+class: center, middle
 
-What sort of knowledge should you be gathering to test your hypothesis?
+.jumboji[💡]
+## 1. Have an idea
 
-* Quantitative or Qualitative?
-* e.g. How your product is use? Or, why your product is used?
-* e.g. Analytics and numbers? Or, user feedback?
+???
 
-It's a false debate:
+You have an idea for a product.
 
-> Use many different types of information to _triangulate_ a solution.
+What next? 
 
-Follow up quantitative questions (how) with qualitative (why).
+* Get your friends opinions?
+* Go ask your Mum what she thinks?
+* Take a weekend to put it together and RELEASE it
+
+#### If our aim here is to launch a great product, with a market fit, as quickly as possible, then doing these things would be like trying to shoot a _moving target_, _at a distance_, _in the dark_.
+
+No. Keep your weekend. Instead…
+
+---
+
+name: hypothesis
+class: center, middle
+
+.jumboji[🤔]
+## 2. Create a hypothesis
+
+???
+
+Create a hypothesis
+
+A hypothesis doesn't start with "I believe..." (otherwise it's true by default)
+
+Be more clear:
+>"If this, then that"
+
+A good start:
+>"If I show people a screenshot, they will download"
+
+Be even clearer:
+>"If I show people who work for a WordPress Agency a screenshot demonstrating how my product will save them time, they will download it"
+
+---
+
+name: test
+class: center, middle
+
+.jumboji[✅]
+## 3. Test the hypothesis
+
+???
+
+Test the hypothesis.
+
+Gut decisions are the enemy. Set up a mental alert for any time you come across one.
+
+You need DATA. You need cold, hard FACTS.
+
+This allows you to:
+
+* Make the correct decision faster
+* Justify your decision (i.e. to stakeholders)
+
+#### When we use hypotheses to inform our product approach, we _know the exact position_ of our product target.
 
 ---
 
@@ -139,23 +190,45 @@ class: center, middle, inverse
 
 ???
 
-Let's talk about MVP: Minimum Viable Product
+Let's talk about that last step - testing your hypothesis.
 
-* MVP? I prefer MVE - Minimum Viable Experiment
+Typically this is done with an MVP: Minimum Viable Product
+
+* MVP? A good approach, but I prefer MVE - Minimum Viable Experiment
 * Different people have different ideas about what a product is
 * By calling it an experiment, it takes away a lot of stakeholder attachment
 * The idea of an MVE is to test a hypothesis
 
-The Lean methodology is not about money
+---
 
-> It's about producing knowledge, quickly.
+name: knowledge
+class: center, middle, inverse
+
+.jumboji[☝️]
+## Produce Knowledge, Quickly
+
+???
+
+The idea of an MVP comes from the Lean Methodology.
+
+> Lean is not about money. It's about producing knowledge, quickly.
 
 Remove any activity that does not produce knowledge.
 
 * Ultimately, an MVE should answer:
 	* Do people know how to use your product (easy)
 	* Do people want to use your product (hard)
-	
+
+---
+
+name: demand
+class: center, middle, inverse
+
+.jumboji[🤑]
+## Make It Cost
+
+???
+
 But asking a customer "Would you use this?" isn't an accurate way of understanding demand.
 
 > Until you make saying "Yes" cost something to a respondant, their repsonse doesn't mean anything.
@@ -173,59 +246,155 @@ Getting buy in with an email address isn't a good signal either - it's too low a
 * "Why?".
 * The customer is really good at telling you this.
 
-Don't build your product on opinions or estimates or guesstimates. Validate your hypothesis, and make a decision based on that.
-
 ---
 
-name: user-engagement
-class: center, middle
-
-# User Engagement
-## Forming User Habits
-
-???
-
-
-
----
-
-name: hiring
+name: qvq
 class: center, middle, inverse
 
-# Hiring
+.jumboji[📈&nbsp;&nbsp;&nbsp;&nbsp;🙋]
+## Quantitative vs Qualitative
 
 ???
 
-* 
+What sort of knowledge should you be gathering to test your hypothesis?
+
+* Quantitative or Qualitative?
+* e.g. How your product is use? Or, why your product is used?
+* e.g. Analytics and numbers? Or, user feedback?
+
+It's a false debate:
+
+> Use many different types of information to _triangulate_ a solution.
+
+Follow up quantitative questions (how) with qualitative (why).
 
 ---
 
-name: branding
+name: q+q
+class: center, middle, inverse
+count: false
+
+.jumboji[📈&nbsp;&nbsp;&nbsp;&nbsp;🙋]
+## Quantitative + Qualitative
+
+???
+
+It's a false debate:
+
+> Use many different types of information to _triangulate_ a solution.
+
+Follow up quantitative questions (how) with qualitative (why).
+
+For example, looking at AB Test results might show you that Landing Page A converts 10% more than B.
+
+It will even show you that A has longer page views, more engagement, etc.
+
+That's quantitative data. But it doesn't tell you _why_ A performs better.
+
+So gather qualitative data. Ask users what they liked about A, and what they thought made it better than B.
+
+#### When we validate demand we get _a lot closer_ to hitting our product target.
+
+---
+
+name: failure
 class: center, middle
 
-# Branding
+# Failure
+## Beware Vanity Metrics
 
 ???
 
-* 
+> Failure is NOT A BAD THING.
+
+In fact, if your first hypothesis didn't fail, I'd be concerned that there was a problem with my testing.
+
+Expect to fail. Multiple times.
+
+Celebrate when you fail. 🎉
+
+Even when you succeed - look for points of failure.
+
+[Choosing Metrics That Matter](https://segment.com/academy/intro/choosing-metrics-that-matter/)
 
 ---
 
-name: monetisation
-class: center, middle, inverse
+name: highlight
+class: center, middle
 
-# Monetisation
+.jumboji[🔦]
+## Metrics should highlight failure.
 
 ???
 
-* 
+Every metric should highlight (not hide) failure.
+
+Why is failure good?
+
+The whole point of a hypothesis is to gain knowledge. You gain more from failure, than you do from success.
+
+If you're not careful, your metrics will not alert you to that failure. You need to choose metrics that highlight your failure.
+
+---
+
+name: growth
+class: center, middle
+
+.jumboji[👶🏻👦🏻👨🏻👴🏻]
+## Measure growth, not totals.
+
+???
+
+Using metrics like Total Downloads or Total Active Installs is a big mistake.
+
+They will always look good. They won't highlight failure.
+
+If I told you that my plugin has 14,000 installs, that sounds good right?
+
+I could tell you that it has 14,000,000 installs, it sounds equally as impressive.
+
+Totals are a waste of time. It's rates and growth that matters.
+
+I can tell you that my plugin grows it's Active Users by 10% every month. If I notice that it falls to 5% one month, that's a clear indication of failure.
+
+> Make it impossible to hide from failure.
+
+Choose a time frame which provides stable data.
+
+---
+
+name: owner
+class: center, middle
+
+.jumboji[👑]
+## Metrics need a clear owner.
+
+???
+
+One department's failure shouldn't be able to hide in another's success.
+
+What if we were measuring Monthly Recurring Revenue. Sounds like a metric for the Sales team, right?
+
+But… what about the self-serve web-based signup tool? Doesn't that belong to the Product team?
+
+If one team does particularly well one month, and the other team doesn't, our metric balances out and hides the failure.
+
+Or we could measure something like Server Cost per Month. That seems like a good metric, right? That would belong to the Engineering department.
+
+Not so fast, though. If our Sales and Marketing teams increased pageviews by 200% one month, our server cost would go up, at no fault of Engineering.
+
+So it's impossible to say just how efficient our infrastructure is with that metric.
+
+Instead, use something like Cost per 1 Million API Calls. It's a ratio, not a total.
+
+#### When we embrace failure and reject vanity metrics, we get _a clear look_ at our product target.
 
 ---
 
 name: notes
 class: center, middle, inverse
 
-### you can view this presentation at
+### You can view this presentation at
 ### https://lukecarbis.github.io/WPaaP
 
 or
