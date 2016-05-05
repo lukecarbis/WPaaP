@@ -9,4 +9,4 @@ This talk presents WordPress as a platform for your product projects, and outlin
 
 This repo is a slideshow with notes for the presentation above. Feel free to browse and contribute.
 
-You can view the slideshow at http://lukecarbis.github.io/WPaaP/.
+You can view the slideshow at http://lukecarbis.github.io/wpaap/.
