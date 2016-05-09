@@ -266,8 +266,6 @@ It's a false debate:
 
 > Use many different types of information to _triangulate_ a solution.
 
-Follow up quantitative questions (how) with qualitative (why).
-
 ---
 
 name: q+q
@@ -278,10 +276,6 @@ count: false
 ## Quantitative + Qualitative
 
 ???
-
-It's a false debate:
-
-> Use many different types of information to _triangulate_ a solution.
 
 Follow up quantitative questions (how) with qualitative (why).
 
